@@ -1,1 +1,2 @@
 # Projeto-Conceitual-Modelo-de-Dados-para-Sistema-de-E-commerce
+Este documento descreve o modelo de dados conceitual para um sistema de e-commerce, projetado para gerenciar as principais entidades e seus relacionamentos em um ambiente de vendas online. O objetivo principal é fornecer uma estrutura robusta e flexível para o armazenamento e recuperação de informações sobre clientes, produtos, pedidos, pagamentos e entregas, garantindo a integridade e a consistência dos dados.
